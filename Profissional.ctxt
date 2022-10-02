@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Profissional
+comment1.params=nome
+comment1.target=Profissional(java.lang.String)
+comment2.params=
+comment2.target=Profissional()
+comment3.params=
+comment3.target=java.util.ArrayList\ getAulas()
+comment4.params=aula
+comment4.target=void\ addAula(Aula)
+comment5.params=
+comment5.target=java.lang.String\ getNome()
+comment6.params=nome
+comment6.target=void\ setNome(java.lang.String)
+comment7.params=
+comment7.target=java.util.ArrayList\ getHorarios()
+comment8.params=horario
+comment8.target=void\ addHorario(Horario)
+numComments=9
